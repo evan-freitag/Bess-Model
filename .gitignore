@@ -1,0 +1,8 @@
+# Files code_v2.py writes when it runs (it regenerates them)
+*_v2.csv
+_last_run_backup*.pkl
+*crash_log.txt
+__pycache__/
+
+# Excel lock files
+~$*
